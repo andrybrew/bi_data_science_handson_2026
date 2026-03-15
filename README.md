@@ -2,11 +2,11 @@
 
 ## Open in Google Colab
 
-- [Session 1 — EDA Notebook](https://colab.research.google.com/github/andrybrew/bi-data-science-handson-2026/blob/main/notebooks/session1_eda.ipynb)
-- [Session 2 — ML Notebook](https://colab.research.google.com/github/andrybrew/bi-data-science-handson-2026/blob/main/notebooks/session2_ml.ipynb)
+- [Session 1 — EDA Notebook](https://colab.research.google.com/github/andrybrew/bi_data_science_handson_2026/blob/main/notebooks/session1_eda.ipynb)
+- [Session 2 — ML Notebook](https://colab.research.google.com/github/andrybrew/bi_data_science_handson_2026/blob/main/notebooks/session2_ml.ipynb)
 
 ## Direct dataset link
-- [bi_regional_inflation_synthetic.csv](https://raw.githubusercontent.com/andrybrew/bi-data-science-handson-2026/main/data/bi_regional_inflation_synthetic.csv)
+- [bi_regional_inflation_synthetic.csv](https://raw.githubusercontent.com/andrybrew/bi_data_science_handson_2026/main/data/bi_regional_inflation_synthetic.csv)
 
 ## Repository structure
 - `data/` dataset
